@@ -1,0 +1,26 @@
+{
+  "name": "nextJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youknowhat/nextJS.git"
+  },
+  "keywords": [],
+  "author": "jounghun.kwon <jounghun.kwon@wadiz.kr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youknowhat/nextJS/issues"
+  },
+  "homepage": "https://github.com/youknowhat/nextJS#readme",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
